@@ -1,1 +1,13 @@
+body {
+  background-color: #2f4f4f;
+  color: white;
+}
+h2 {
+  font-size: 60px;
+  margin-left: 40%;
+}
 
+div {
+  margin-top: 200px;
+  margin-left: 45%;
+}
